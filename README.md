@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leando2107&theme=github_dark&hide_langs_below=1" /></td>
+    <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leando2107&&theme=github_dark"/></td>
+  </tr>
+</table>
 <!--
 **Leando2107/Leando2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
